@@ -75,7 +75,7 @@ bool showLose()
 
 char GetInput()
 {
-	printf("Choice num for attack skill......\n");
+	printf("Choice num for attack skill.......\n");
 	char ch = _getch();
 
 	PlayerAttack(ch);
