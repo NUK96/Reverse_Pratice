@@ -10,7 +10,7 @@
 
   现代计算机结构
 
-![现代计算机结构模型](.\images\现代计算机结构模型.png)
+![现代计算机结构](https://github.com/NUK96/Reverse_pratice/blob/master/%E7%AC%AC%E4%B8%80%E5%A4%A9/images/%E7%8E%B0%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%93%E6%9E%84%E6%A8%A1%E5%9E%8B.png)
 
 3. 语言的发展：机器语言（00000001）->汇编语言（add 1,2）->高级语言（A语言、B语言、C语言）
 
