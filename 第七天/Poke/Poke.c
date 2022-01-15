@@ -125,7 +125,7 @@ void SortPoke(int aHandColor[], int aHandCard[], int nHandCardCount)
 				nMinIndex = j;
 			}
 		}
-		if (nMinIndex != 0)
+		if (nMinIndex != i)
 		{
 			int nTemp = aHandCard[i];
 			aHandCard[i] = aHandCard[nMinIndex];
