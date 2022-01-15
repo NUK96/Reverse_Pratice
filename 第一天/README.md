@@ -6,7 +6,7 @@
 
 2. 计算机的基础5个部分：原运算器、存储器、控制器、输入设备、输出设备
 
-https://raw.githubusercontent.com/NUK96/Reverse_pratice/master/%E7%AC%AC%E4%B8%80%E5%A4%A9/images/%E7%8E%B0%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%93%E6%9E%84%E6%A8%A1%E5%9E%8B.png
+![计算器基本结构](\images\计算器基本结构.png)
 
   现代计算机结构
 
