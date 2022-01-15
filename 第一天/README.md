@@ -6,11 +6,11 @@
 
 2. 计算机的基础5个部分：原运算器、存储器、控制器、输入设备、输出设备
 
-![计算器基本结构](E:\自我提升_逆向\02_C语言_预科班\04_Reverse_Pratice\第一天\images\计算器基本结构.png)
+https://github.com/NUK96/Reverse_pratice/blob/29915dedfd151ca4ee5283b40b7e49b902aad848/%E7%AC%AC%E4%B8%80%E5%A4%A9/images/%E8%AE%A1%E7%AE%97%E5%99%A8%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84.png
 
   现代计算机结构
 
-![现代计算机结构模型](E:\自我提升_逆向\02_C语言_预科班\04_Reverse_Pratice\第一天\images\现代计算机结构模型.png)
+  https://github.com/NUK96/Reverse_pratice/blob/29915dedfd151ca4ee5283b40b7e49b902aad848/%E7%AC%AC%E4%B8%80%E5%A4%A9/images/%E7%8E%B0%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%93%E6%9E%84%E6%A8%A1%E5%9E%8B.png
 
 3. 语言的发展：机器语言（00000001）->汇编语言（add 1,2）->高级语言（A语言、B语言、C语言）
 
